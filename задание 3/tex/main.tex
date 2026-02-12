@@ -1,0 +1,76 @@
+\documentclass[coursework, och]{SCWorks1}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\usepackage[sort,compress]{cite}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{fancyvrb}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[english,russian]{babel}
+
+\usepackage[colorlinks=false]{hyperref}
+
+\newcommand{\eqdef}{\stackrel {\rm def}{=}}
+
+\newtheorem{lem}{Лемма}
+\newtheorem{definition}{Определение}
+
+\begin{document}
+
+
+\begin{center}
+    МИНОБРНАУКИ РОССИИ\\
+    Федеральное государственное бюджетное образовательное учреждение высшего образования \\
+    <<САРАТОВСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ИМЕНИ Н.Г. ЧЕРНЫШЕВСКОГО>> \\
+\end{center}
+\begin{center}
+Кафедра системного анализа и автоматического управления
+\end{center}
+
+\begin{center}
+Отчет по заданию 3. Вариант 29
+\end{center}
+
+\begin{flushleft}
+Студента 3 курса 321 группы направления 09.03.01 ИВТ\\
+Факультета компьютерных наук и информационных технологий\\
+Чесакова Максима Евгеньевича
+\end{flushleft}
+%=================================================================================
+\textbf{Задача №1}
+Транзитивна ли заданная функция $h: \mathbb{Z}_2 \rightarrow \mathbb{Z}_2$? Решить задачу аналитически, затем проверить с помощью программной реализации транзитивность по модулю 256.
+
+$
+h(x) = (x \oplus  1) \oplus \\
+ (2 (x \land (1 + 2x) \land (3+4x) \land (7+8x) \land (15+16x) \land (31+32x) \land (63+64x))) \oplus \\
+ (4(x^2+ \textbf{29}))
+$
+
+\textbf{Аналитическое решение.}
+
+\textbf{Теорема Ларина.} \textit{
+    Многочлен $F$ с целыми или рациональными 2-адическими коэффициентами биективен (транзитивен) на $\mathbb{Z}_2$, тогда и только тогда, когда $F$ биективен (транзитивен) по модулю 4, т.~е. редукция $F \mod 4$ является перестановкой (транзитивен по модулю 8, т.~е. редукция $F \mod 8$ одноцикловая перестановка)
+}
+
+
+\textbf{Ответ:} .
+
+\textbf{Программная реализация на Python.}
+
+\begin{Verbatim}[numbers=left]
+
+
+\end{Verbatim}
+
+
+%  \bibitem{Ione} GraphOnLine : [интерактивный онлайн-конструктор графов]. – URL: https://graphonline.ru/?graph=WnqNelghOjfEvOqsZZcst (дата обращения: 20.09.2025).
+%  \label{сайт1}
+%  \bibitem{Itwo} Источник 2
+%\end{thebibliography}
+
+%===============================================================================
+\end{document}
