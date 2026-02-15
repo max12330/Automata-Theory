@@ -1,5 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1769261728.92352 "d:/Максим/Обучение/СГУ/Учебные дисциплины/Теория автоматов/практика/задание 2/tex/main.tex" "main.pdf" "main" 1769261730.462 0
+["pdflatex"] 1771157061.75965 "d:/Максим/Обучение/СГУ/Учебные дисциплины/Теория автоматов/практика/задание 2/tex/main.tex" "main.pdf" "main" 1771157063.36807 0
+  "2_1.png" 1771156444 10215 96c4570718fba09eef4475a091cd7d7e ""
+  "2_2.png" 1771156463 25015 c4256b3e792888dbb800edb36e89d19a ""
+  "2_3.png" 1771156478 57552 0dbc3eba450e58556c7497f2c1fa1acc ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -120,10 +123,10 @@
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/latt1440.tfm" 1747481377 1272 e3abe42d6bdbd8626fffa22fcb43f669 ""
   "C:/Users/chesm/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1747480801 24215231 338f1eb12dcd1bbf9c53ff7a26820d96 ""
   "SCWorks1.cls" 1768310322 28888 98eecf15e7d13989ff6796bad5718988 ""
-  "d:/Максим/Обучение/СГУ/Учебные дисциплины/Теория автоматов/практика/задание 2/tex/main.tex" 1769261728 6874 109e6d0f239eadc0a956e2614020eef4 ""
-  "main.aux" 1769261730 724 515d0b1b47a10e8e55007ed88acfb62e "pdflatex"
-  "main.out" 1769261729 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1769261728 6874 109e6d0f239eadc0a956e2614020eef4 ""
+  "d:/Максим/Обучение/СГУ/Учебные дисциплины/Теория автоматов/практика/задание 2/tex/main.tex" 1771157059 7443 a9489563e5feefa93894603e03ed86c8 ""
+  "main.aux" 1771157063 1195 41499af8f4ae033aa6e4625d0aa37d61 "pdflatex"
+  "main.out" 1771157062 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1771157059 7443 a9489563e5feefa93894603e03ed86c8 ""
   "Диаграмма 1.png" 1768318313 7606 40fbd6c8f52be12da501a5076bfdce42 ""
   "Диаграмма 2.png" 1768324002 5334 d3e1a7e986cce098f4558cc60964f04d ""
   "Диаграмма 3.png" 1768324390 18490 b65368185b0d29618e132dcb8299a12c ""

@@ -75,7 +75,7 @@ $\displaystyle\frac{-12}{19} = 0 + 2 \cdot \frac{-6}{19}$, \\
 $\displaystyle\frac{-6}{19} = 0 + 2 \cdot \frac{-3}{19}$, \\
 $\displaystyle\frac{-3}{19} = 1 + 2 \cdot \frac{-11}{19}$, \\
 $\displaystyle\frac{-11}{19} = 1 + 2 \cdot \frac{-15}{19}$, \\
-$\displaystyle\frac{-15}{19} = 1 + 2 \cdot \frac{-17}{19}$, ~~~~~~~~~~ $\Longrightarrow ~~~ \displaystyle\frac{17}{19} = (0000110101111001011)^\infty$ \\
+$\displaystyle\frac{-15}{19} = 1 + 2 \cdot \frac{-17}{19}$, ~~~~~~~~~~ $\Longrightarrow ~~~ \displaystyle\frac{17}{19} = (000011010111100101)^\infty 1$ \\
 $\displaystyle\frac{-17}{19} = 1 + 2 \cdot \frac{-18}{19}$, \\
 $\displaystyle\frac{-18}{19} = 0 + 2 \cdot \frac{-9}{19}$.\\
 $\displaystyle\frac{-9}{19} = 1 + 2 \cdot \frac{-14}{19}$, \\
@@ -104,7 +104,7 @@ $g \mod 8 = 3x + 1$.\\
 $g(0) \mod 8 = 1, ~~ g(1) \mod 8 = 4, ~~ g(2) \mod 8 = 7, ~~ g(3) \mod 8 = 2, \\ g(4) \mod 8 = 5, ~~ g(5) \mod 8 = 0, ~~ g(6) \mod 8 = 3, ~~ g(7) \mod 8 = 6$. \\
 \begin{figure}[!ht]
 	\centering
-	\includegraphics[width=5cm]{Диаграмма 3.png}
+	\includegraphics[width=7cm]{Диаграмма 3.png}
 	\caption{диаграмма $g \mod 8$}
 \end{figure} \\
 Функция $g \mod 8$ имеет двухцикловую перестановку, следовательно $g$ не транзитивна на $\mathbb{Z}_2$.
@@ -112,6 +112,24 @@ $g(0) \mod 8 = 1, ~~ g(1) \mod 8 = 4, ~~ g(2) \mod 8 = 7, ~~ g(3) \mod 8 = 2, \\
 \textbf{Ответ:} $f$ не биективна, не транзитивна на $\mathbb{Z}_2$, $g$ биективна на $\mathbb{Z}_2$, но не транзитивна на $\mathbb{Z}_2$.
 
 \textbf{Программная реализация на Python.}
+
+Исходный код представлен в файле 2.py. Результаты его работы представлены на рисунках 3 --- 6.
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=15cm]{2_1.png}
+	\caption{Проверка $f(x)$}
+\end{figure}
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=15cm]{2_2.png}
+	\caption{Проверка $g(x)$}
+\end{figure}
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=12cm]{2_3.png}
+	\caption{Разложение дробей в 2-адические числа}
+\end{figure}
 
 \begin{Verbatim}[numbers=left]
 

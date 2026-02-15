@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1769344265.50743 "d:/Максим/Обучение/СГУ/Учебные дисциплины/Теория автоматов/практика/задание 3/tex/main.tex" "main.pdf" "main" 1769344266.8169 0
+["pdflatex"] 1771157615.15446 "d:/Максим/Обучение/СГУ/Учебные дисциплины/Теория автоматов/практика/задание 3/tex/main.tex" "main.pdf" "main" 1771157616.50441 0
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
@@ -101,7 +101,6 @@
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1747482590 36852 83e1e32b0086c179f319b058741d7131 ""
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0600.pk" 1747481382 14008 b56da1c6703982c5884a216fe138200d ""
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk" 1747481389 32600 12509df6a0d6bfb4173a813a54cd453b ""
-  "C:/Users/chesm/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1440.pk" 1747482588 47032 a71730f17f6d82f87509e8d30126df5f ""
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labx0700.tfm" 1762621624 3328 d6a760976be2c5546586233212eda387 ""
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1762621623 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1747482575 3304 6a543c07045572737981351171e0505e ""
@@ -109,14 +108,13 @@
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm0700.tfm" 1762334556 3256 b15a2ce2310c0038b96c5235b038f0eb ""
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1747481374 3220 0e417eaf233b160335902e97259a6c77 ""
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1747481230 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
-  "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/lati1440.tfm" 1747482577 3528 460e6901416a816cf4afa844b5d54101 ""
   "C:/Users/chesm/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/latt1440.tfm" 1747481377 1272 e3abe42d6bdbd8626fffa22fcb43f669 ""
   "C:/Users/chesm/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1747480801 24215231 338f1eb12dcd1bbf9c53ff7a26820d96 ""
   "SCWorks1.cls" 1768310322 28888 98eecf15e7d13989ff6796bad5718988 ""
-  "d:/Максим/Обучение/СГУ/Учебные дисциплины/Теория автоматов/практика/задание 3/tex/main.tex" 1769344263 3171 c1bf377534a389d2723487db7d42f69c ""
-  "main.aux" 1769344266 277 ca9bccace1319c4e952352eb6f5d4b8f "pdflatex"
-  "main.out" 1769344266 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1769344263 3171 c1bf377534a389d2723487db7d42f69c ""
+  "d:/Максим/Обучение/СГУ/Учебные дисциплины/Теория автоматов/практика/задание 3/tex/main.tex" 1771157614 2598 b42e73eb8c0a8af3ec22acf5df1f1e04 ""
+  "main.aux" 1771157616 277 ca9bccace1319c4e952352eb6f5d4b8f "pdflatex"
+  "main.out" 1771157616 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1771157614 2598 b42e73eb8c0a8af3ec22acf5df1f1e04 ""
   (generated)
   "main.aux"
   "main.log"
