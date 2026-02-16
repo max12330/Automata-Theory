@@ -6,7 +6,7 @@ def h(x):
     return (x ^ 1) ^ (2 * (x & (1 + 2 * x) 
                          & (3 + 4 * x) & (7 + 8 * x) & (15 + 16 * x) 
                          & (31 + 32 * x) & (63 + 64 * x))) \
-                   ^ (4 * (x * x + 19))
+                   ^ (4 * (x * x + 29))
 
 mod256 = [0] * 256
 flags = [0] * 256
@@ -19,7 +19,7 @@ cycle_output = "0"
 for i in range(256):
     pin = mod256[pin]
     flags[pin] = 1
-    cycle_output += f" -> {pin}"
+    cycle_output += f"\t-> {pin}"
 
 for i in range(10, 256):
     pin = mod256[pin]
@@ -27,7 +27,7 @@ for i in range(10, 256):
 
 total_visited = sum(flags)
 
-print(cycle_output + " -> ...")
+print(cycle_output)
 print()
 print(f"Всего посещено элементов: {total_visited} из 256")
 print()
