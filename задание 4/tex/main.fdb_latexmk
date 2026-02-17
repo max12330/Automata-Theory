@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1771239752.31396 "d:/SSU/Учебные дисциплины/Теория автоматов/практика/задание 4/tex/main.tex" "main.pdf" "main" 1771239754.39541 0
+["pdflatex"] 1771314346.50652 "d:/SSU/Учебные дисциплины/Теория автоматов/практика/задание 4/tex/main.tex" "main.pdf" "main" 1771314367.02169 0
   "C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1770641243 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1770641256 36852 3b10eea6ffc6424ee862427190b84af5 ""
   "C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0600.pk" 1770641254 14008 bc2e7135dae80d870cdd502bd057e4a6 ""
@@ -106,10 +106,22 @@
   "C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1761901070 16014 dfa4b4d4e04a78a3f05a90c19711737a ""
   "C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "SCWorks1.cls" 1768310324 28888 98eecf15e7d13989ff6796bad5718988 ""
-  "d:/SSU/Учебные дисциплины/Теория автоматов/практика/задание 4/tex/main.tex" 1771239751 3002 7af7a0b6e51736cbcb8cbab6d8d5238b ""
-  "main.aux" 1771239753 315 f4408874c041ae0faab3e9cf6ccd8f33 "pdflatex"
-  "main.out" 1771239753 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1771239751 3002 7af7a0b6e51736cbcb8cbab6d8d5238b ""
+  "d:/SSU/Учебные дисциплины/Теория автоматов/практика/задание 4/tex/main.tex" 1771314333 4181 f74b04b85f8249ed0e86fdd0c2c4407c ""
+  "f(x)plot_k15.png" 1771246093 1599453 b1047ead1c1b49a9a0a717464c14cd0f ""
+  "f(x)plot_k16.png" 1771246101 2121682 c3dfc68027092a7d74d35cba27507288 ""
+  "f(x)plot_k17.png" 1771246107 2336700 e243271af6105e07c96b7b2268f29d45 ""
+  "f(x)plot_k18.png" 1771246115 2080661 c499dd315afed568f37106c0f1602469 ""
+  "f(x)plot_k19.png" 1771246128 1094049 48178a173dba0b9a1979247458ea705c ""
+  "f(x)plot_k20.png" 1771246151 59095 341dc494d5ac5653318c5bc5ebfa9983 ""
+  "main.aux" 1771314366 315 6c17fae3ab255d9900116e013a20daa9 "pdflatex"
+  "main.out" 1771314348 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1771314333 4181 f74b04b85f8249ed0e86fdd0c2c4407c ""
+  "plot_k15.png" 1771245735 1612934 1b4cb8fe83ee3bd410bc2f1732adcc3d ""
+  "plot_k16.png" 1771245753 2125850 ebf5d2156ea2facd1166721a9b493b67 ""
+  "plot_k17.png" 1771245761 2339971 b2a605148d9149394f68ba712ef8fc16 ""
+  "plot_k18.png" 1771245771 2084325 c2f9b49e3fb9bba1cc20e6da9ea33c54 ""
+  "plot_k19.png" 1771245784 1092351 580a7f018705ea2c70e846007aaf06ce ""
+  "plot_k20.png" 1771245807 56772 044def12d27fb9e46584ad7c8f94ee42 ""
   (generated)
   "main.aux"
   "main.log"

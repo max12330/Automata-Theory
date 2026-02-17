@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.9)  16 FEB 2026 15:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.9)  17 FEB 2026 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -727,12 +727,72 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
  (C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 66.
+<f(x)plot_k15.png, id=3, 710.1732pt x 714.5094pt>
+File: f(x)plot_k15.png Graphic file (type png)
+<use f(x)plot_k15.png>
+Package pdftex.def Info: f(x)plot_k15.png  used on input line 60.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<f(x)plot_k16.png, id=5, 710.1732pt x 714.5094pt>
+File: f(x)plot_k16.png Graphic file (type png)
+<use f(x)plot_k16.png>
+Package pdftex.def Info: f(x)plot_k16.png  used on input line 64.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<f(x)plot_k17.png, id=6, 710.1732pt x 714.5094pt>
+File: f(x)plot_k17.png Graphic file (type png)
+<use f(x)plot_k17.png>
+Package pdftex.def Info: f(x)plot_k17.png  used on input line 68.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<f(x)plot_k18.png, id=7, 710.1732pt x 714.5094pt>
+File: f(x)plot_k18.png Graphic file (type png)
+<use f(x)plot_k18.png>
+Package pdftex.def Info: f(x)plot_k18.png  used on input line 72.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<f(x)plot_k19.png, id=8, 710.1732pt x 714.5094pt>
+File: f(x)plot_k19.png Graphic file (type png)
+<use f(x)plot_k19.png>
+Package pdftex.def Info: f(x)plot_k19.png  used on input line 76.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<f(x)plot_k20.png, id=9, 710.1732pt x 714.5094pt>
+File: f(x)plot_k20.png Graphic file (type png)
+<use f(x)plot_k20.png>
+Package pdftex.def Info: f(x)plot_k20.png  used on input line 80.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<plot_k15.png, id=10, 710.1732pt x 714.5094pt>
+File: plot_k15.png Graphic file (type png)
+<use plot_k15.png>
+Package pdftex.def Info: plot_k15.png  used on input line 87.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<plot_k16.png, id=11, 710.1732pt x 714.5094pt>
+File: plot_k16.png Graphic file (type png)
+<use plot_k16.png>
+Package pdftex.def Info: plot_k16.png  used on input line 91.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<plot_k17.png, id=12, 710.1732pt x 714.5094pt>
+File: plot_k17.png Graphic file (type png)
+<use plot_k17.png>
+Package pdftex.def Info: plot_k17.png  used on input line 95.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<plot_k18.png, id=13, 710.1732pt x 714.5094pt>
+File: plot_k18.png Graphic file (type png)
+<use plot_k18.png>
+Package pdftex.def Info: plot_k18.png  used on input line 99.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<plot_k19.png, id=14, 710.1732pt x 714.5094pt>
+File: plot_k19.png Graphic file (type png)
+<use plot_k19.png>
+Package pdftex.def Info: plot_k19.png  used on input line 103.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+<plot_k20.png, id=15, 710.1732pt x 714.5094pt>
+File: plot_k20.png Graphic file (type png)
+<use plot_k20.png>
+Package pdftex.def Info: plot_k20.png  used on input line 107.
+(pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 122.
  (C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) [1
 
-{C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux)
+{C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2 <./f(x)plot_k15.png> <./f(x)plot_k16.png>] [3 <./f(x)plot_k17.png> <./f(x)plot_k18.png>] [4 <./f(x)plot_k19.png> <./f(x)plot_k20.png>] [5 <./plot_k15.png> <./plot_k16.png>] [6 <./plot_k17.png> <./plot_k18.png>] [7 <./plot_k19.png> <./plot_k20.png>] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -741,17 +801,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15710 strings out of 467871
- 252388 string characters out of 5416441
- 668588 words of memory out of 5000000
- 44380 multiletter control sequences out of 15000+600000
+ 15817 strings out of 467871
+ 254488 string characters out of 5416441
+ 671588 words of memory out of 5000000
+ 44469 multiletter control sequences out of 15000+600000
  636302 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,656b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,656b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (1 page, 85607 bytes).
+Output written on main.pdf (7 pages, 17124180 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
