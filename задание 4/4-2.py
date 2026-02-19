@@ -24,6 +24,8 @@ m = s_prime // gcd(s, s_prime)
 mult_m_p = 1
 while (2 ** mult_m_p) % m != 1 and m > 1:
     mult_m_p += 1
+
+print(mult_m_p)
 k = 10
 p_k = 1 << k
 y = np.linspace(0, 1, p_k)
@@ -31,8 +33,8 @@ y = np.linspace(0, 1, p_k)
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(20, 10))
 
 random.seed(42)
-colors1 = ['red', 'blue']
-for i in range(2):
+colors1 = ['red', 'blue', 'green', 'black', 'magenta', 'orange', 'purple']
+for i in range(mult_m_p):
     z = np.array([zi(yj, c, q, i) for yj in y])
     ax1.scatter(y, z, s=3, color=colors1[i], alpha=0.8, label=f'z_{i}')
 ax1.set_xlim(0, 1)
@@ -41,7 +43,7 @@ ax1.set_aspect('equal')
 ax1.grid(True, alpha=0.3)
 ax1.set_xlabel('x')
 ax1.set_ylabel('g(x) mod 1')
-ax1.set_title('2 обмотки тора (shift=0)')
+ax1.set_title('4 обмотки тора без сдвигов')
 ax1.legend()
 
 random.seed(42)
@@ -62,6 +64,5 @@ ax2.set_ylabel('g(x) mod 1')
 ax2.set_title('Полные обмотки тора g(x) = 17/19x - 1/15')
 
 plt.tight_layout()
-plt.savefig('g.png', dpi=150, bbox_inches='tight')
+plt.savefig('g_from_belyaev_-1_15.png', dpi=150, bbox_inches='tight')
 plt.show()
-

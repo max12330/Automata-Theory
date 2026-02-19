@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.9)  17 FEB 2026 11:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.2.9)  19 FEB 2026 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -787,12 +787,18 @@ File: plot_k20.png Graphic file (type png)
 <use plot_k20.png>
 Package pdftex.def Info: plot_k20.png  used on input line 107.
 (pdftex.def)             Requested size: 369.88582pt x 372.14667pt.
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 122.
+ [1
+
+{C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2 <./f(x)plot_k15.png>]
+<g_from_belyaev_-1_15.png, id=38, 1437.6912pt x 721.7364pt>
+File: g_from_belyaev_-1_15.png Graphic file (type png)
+<use g_from_belyaev_-1_15.png>
+Package pdftex.def Info: g_from_belyaev_-1_15.png  used on input line 155.
+(pdftex.def)             Requested size: 483.69684pt x 242.81013pt.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 158.
  (C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [1
-
-{C:/Users/LocalUser/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2 <./f(x)plot_k15.png> <./f(x)plot_k16.png>] [3 <./f(x)plot_k17.png> <./f(x)plot_k18.png>] [4 <./f(x)plot_k19.png> <./f(x)plot_k20.png>] [5 <./plot_k15.png> <./plot_k16.png>] [6 <./plot_k17.png> <./plot_k18.png>] [7 <./plot_k19.png> <./plot_k20.png>] (main.aux)
+) [3 <./f(x)plot_k16.png>] [4 <./f(x)plot_k17.png> <./f(x)plot_k18.png>] [5 <./f(x)plot_k19.png> <./f(x)plot_k20.png>] [6 <./plot_k15.png> <./plot_k16.png>] [7 <./plot_k17.png> <./plot_k18.png>] [8 <./plot_k19.png> <./plot_k20.png>] [9 <./g_from_belyaev_-1_15.png>] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -801,17 +807,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15817 strings out of 467871
- 254488 string characters out of 5416441
- 671588 words of memory out of 5000000
- 44469 multiletter control sequences out of 15000+600000
- 636302 words of font info for 59 fonts, out of 8000000 for 9000
+ 15831 strings out of 467871
+ 254820 string characters out of 5416441
+ 676588 words of memory out of 5000000
+ 44479 multiletter control sequences out of 15000+600000
+ 637176 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,656b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (7 pages, 17124180 bytes).
+ 75i,7n,79p,776b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\LocalUser\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/LocalUser/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (9 pages, 17487320 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 309 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
