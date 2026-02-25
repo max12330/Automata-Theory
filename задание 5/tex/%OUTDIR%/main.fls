@@ -1,7 +1,7 @@
 PWD d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\main.tex
-OUTPUT main.log
+OUTPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.log
 INPUT .\SCWorks1.cls
 INPUT SCWorks1.cls
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\extsizes\extarticle.cls
@@ -158,10 +158,10 @@ INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.aux
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.aux
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.aux
+OUTPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.aux
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
@@ -174,14 +174,14 @@ INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\ep
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
-OUTPUT main.pdf
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
+OUTPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
+OUTPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.pdf
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1440.tfm
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
@@ -207,33 +207,21 @@ INPUT .\Диаграмма.png
 INPUT .\Диаграмма.png
 INPUT .\Диаграмма.png
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1200.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\ueuf.fd
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\ueuf.fd
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\ueuf.fd
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm10.tfm
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm10.tfm
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm7.tfm
+INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2acmtt.fd
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2acmtt.fd
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2acmtt.fd
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\latt1440.tfm
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0600.tfm
-INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.aux
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
+INPUT d:\SSU\Учебные дисциплины\Теория автоматов\практика\задание 5\tex\%OUTDIR%\main.out
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0600.pk
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0600.pk
 INPUT C:\Users\LocalUser\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk
@@ -248,9 +236,19 @@ INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfon
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
+INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
 INPUT C:\Users\LocalUser\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
